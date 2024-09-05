@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqujz+AJM2F8BTES<ctrl61>gwm3p/0W1CztnOxOglb09aE653oV+R49AsrDOIoII"
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Superando Desafios</title>
+</head>
+
+<body>
+    <header>
+        <div class="topo">
+            <h1><img src="https://sgimais.com.br/images/logogemini.png" alt="Logo Superando Desafios"></h1>
+        </div>
+    </header>
+    <main>
+        <section>
+            <div class="boasvindas">
+                Bem-vindo ao seu portal de transformação! Encontre aqui os profissionais e o apoio necessários para
+                alcançar o bem-estar emocional. Comece sua jornada agora e descubra um novo você!
+            </div>
+            <div>
+                <input type="text" style="border:2px solid #327D87;" placeholder="Digite o que procura Ex: Ajuda ou o nome do terapeuta">
+                <button onclick="pesquisar()">Pesquisar</button>
+            </div>
+        </section>
+        <section>
+            <span class="resultado-titulo" id="resultado-titulo"></span>
+        </section>
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+        </section>
+
+        <section class="ajuda">
+            <h4>Auto Ajuda</h4>
+            <ul>
+                <li>Meditação: Ajuda controlar a ansiedade.</li>
+                <li>Hoponopono: Redução do estresse e da ansiedade. Limpando as memórias negativas, a mente se acalma e a ansiedade diminui.</li>
+                <li>Ouvir músicas que tragam boas sensações.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>2024 - Juliana Lopes. Todos os direitos reservados</p>
+        <p class="autorizacao">Os profissionais indicados, autorizaram a divulgação em nosso web site.</p>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
