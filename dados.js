@@ -1,10 +1,3 @@
-//Lista
-// let dados = [
-//     'Sistema SGI Online', 
-//     'SGI Comercial Desktop', 
-//     'SGI Administração Desktop'
-// ];
-
 //Objeto
 let dados = [{
     titulo: "Fernanda Gimenez | Psicóloga | CRP 06/141226",
