@@ -20,11 +20,11 @@ Vercel: A plataforma que hospeda a aplicação e a torna acessível para todos.
 
 **Como usar essa aplicação?**
 
-*Acesse:* https://projeto-gemini-alura.vercel.app/ 
-*Pesquise:* Digite o que você procura na barra de pesquisa. Nomes de Terapeutas para ajudar sua pesquisa, Fernanda, Stella e Dulcinda
-Plavras chaves: terapia, ajuda, ansiedade, autocuidado 
-*Explore:* Navegue pelos resultados e encontre os profissionais e dicas que mais te interessam.
-*Entre em contato:* Clique no botão "saiba mais" para entrar em contato com os profissionais.
+**Acesse:** https://projeto-gemini-alura.vercel.app/ 
+**Pesquise:** Digite o que você procura na barra de pesquisa. Nomes de Terapeutas para ajudar sua pesquisa, Fernanda, Stella e Dulcinda
+**Plavras chaves:** terapia, ajuda, ansiedade, autocuidado.
+**Explore:** Navegue pelos resultados e encontre os profissionais e dicas que mais te interessam.
+**Entre em contato:** Clique no botão "saiba mais" para entrar em contato com os profissionais.
 Contribuindo para o projeto:
 
 Quer ajudar a tornar esse projeto ainda melhor? Sinta-se à vontade para abrir um pull request! Toda contribuição é bem-vinda.
