@@ -1,5 +1,9 @@
 # projeto-gemini-alura
 
+**Layout**
+![image](https://github.com/user-attachments/assets/a1971df1-8eef-4470-9fa0-e0d972f1cee2)
+
+
 **Olá, futuro explorador do código!**
 Se você chegou até aqui, provavelmente está curioso para entender como funciona essa aplicação que busca transformar vidas.
 
