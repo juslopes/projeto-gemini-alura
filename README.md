@@ -1,7 +1,11 @@
 # projeto-gemini-alura
 
 **Layout**
-![image](https://github.com/user-attachments/assets/a1971df1-8eef-4470-9fa0-e0d972f1cee2)
+![image](https://github.com/user-attachments/assets/16c02603-7c70-4041-bf75-2c4c1e24af6d)
+
+*Resultado Pesquisa**
+![image](https://github.com/user-attachments/assets/458baad0-0ad1-4e9c-8907-40d5a0783f6f)
+
 
 
 **Olá, futuro explorador do código!**
