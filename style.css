@@ -11,6 +11,7 @@ body {
     background-position: center;
     margin: 0;
     padding: 0;
+    color: #2C6B74;
 }
 
 /* Estiliza os títulos h1 */
@@ -30,6 +31,7 @@ h3 {
     padding: 0px;
     margin:0px;
 }
+
 
 
 /* Estiliza as seções da página */
@@ -52,6 +54,7 @@ header{
     background-color: #327D87;
     margin: 0 auto;
     height: 100px;
+    padding-left: 80px;
 }
 
 .boasvindas{
@@ -66,31 +69,43 @@ header{
     text-align: center;
 }
 
+.ajuda div{
+    padding: 30px;
+    background-color:rgba(203, 206, 202, 0.582);
+}
+.ajuda div:hover{
+    padding: 30px;
+    background-color:rgba(203, 206, 202, 0.7);
+}
 .ajuda h4{
     width:60rem;
     border:0px solid red;
     font-size: 1.2rem;
     text-align: left;
+    color: #327D87;
 }
 
 .ajuda ul {
     list-style-type: square; /* Altera o marcador para um quadrado */
     padding-left: 20px; /* Adiciona um espaçamento à esquerda da lista */
+    color: #2C6B74;
 }
 
 
 
 /* Estiliza os inputs dentro das seções */
-section input {
+section input,
+section input::placeholder {
     width: 30rem; /* Largura dos inputs */
     border: none; /* Remove a borda padrão */
     padding: 1rem; /* Espaçamento interno */
     border-radius: 1.5rem; /* Borda arredondada */
     margin-bottom: 1rem; /* Espaçamento abaixo dos inputs */
-    color: #45474B; /* Cor do texto */
+    color: #2C6B74; /* Cor do texto */
     font-size: 1rem; /* Tamanho da fonte */
     box-sizing: border-box; /* Inclui padding e border na largura total */
 }
+
 
 /* Estiliza os botões dentro das seções */
 section button {
@@ -123,8 +138,9 @@ section button:hover {
 
 /* Estiliza cada item de resultado */
 .item-resultado {
+    border: 0px solid red;
     min-width: 90%;
-    background: #FFFFFF; /* Cor de fundo dos itens */
+    background-color:rgba(252, 253, 249, 0.4);
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
@@ -140,7 +156,7 @@ section button:hover {
 /* Estiliza os títulos dentro dos itens de resultado */
 .item-resultado h2 {
     font-size: 0.8rem; /* Tamanho da fonte */
-    color: #222831; /* Cor do texto */
+    color:#2C6B74; /* Cor do texto */
 }
 
 /* Estiliza os links dentro dos itens de resultado */
