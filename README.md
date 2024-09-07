@@ -1,6 +1,6 @@
 # projeto-gemini-alura
 
-** Olá, futuro explorador do código!**
+**Olá, futuro explorador do código!**
 Se você chegou até aqui, provavelmente está curioso para entender como funciona essa aplicação que busca transformar vidas.
 
 **O que é essa aplicação?**
